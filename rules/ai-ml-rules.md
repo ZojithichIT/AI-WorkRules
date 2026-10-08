@@ -1,0 +1,5 @@
+AI/ML rules:
+- Always propose a baseline before complex models.
+- Define evaluation metrics before building models.
+- Prefer explainable solutions unless a black-box model is justified and approved.
+- For every proposed model or approach, include rationale, trade-offs, failure modes, data requirements, and evaluation plan.
